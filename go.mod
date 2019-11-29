@@ -1,4 +1,4 @@
-module bitbucket.org/vintikzzzz/common-services
+module github.com/bcashier/common-services
 
 go 1.13
 
